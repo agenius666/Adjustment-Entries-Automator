@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# 生成文件
+/TB文件/
+/配置文件/*.xlsx
+日志.txt
+录入结果_*.xlsx
+
+# Excel 临时文件
+~$*.xlsx
